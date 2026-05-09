@@ -1,0 +1,294 @@
+PDF OFFICE — ACUERDO DE LICENCIA DE USUARIO FINAL (EULA)
+========================================================
+
+Copyright © 2026 Next Code Agency. Todos los derechos reservados.
+
+Software:           PDF Office (en adelante, "el Software")
+Titular del software: Next Code Agency (en adelante, "el Titular")
+Contacto:           pdf-office@nextcodeagency.com
+
+ESTE ES UN CONTRATO LEGAL ENTRE TÚ ("el Licenciatario") Y EL TITULAR.
+AL INSTALAR, COPIAR, ACTIVAR CON UN CÓDIGO DE LICENCIA O UTILIZAR
+DE CUALQUIER MODO EL SOFTWARE, ACEPTAS QUEDAR VINCULADO POR LOS
+TÉRMINOS DE ESTE ACUERDO. SI NO ESTÁS DE ACUERDO, NO INSTALES NI
+UTILICES EL SOFTWARE Y ELIMINA TODAS LAS COPIAS QUE TENGAS.
+
+--------------------------------------------------------------------
+1. DEFINICIONES
+--------------------------------------------------------------------
+
+1.1  "Software" significa el programa PDF Office, incluyendo el
+     ejecutable cliente, el ejecutable generador de licencias (si lo
+     recibes), instaladores, archivos auxiliares, recursos gráficos,
+     fuentes empaquetadas, plantillas, traducciones, documentación,
+     manuales, código fuente (en cualquier forma), futuras
+     actualizaciones, parches, builds, y cualquier material que
+     acompañe al Software o sea entregado en virtud de este Acuerdo.
+
+1.2  "Equipo Autorizado" significa el dispositivo (ordenador físico
+     o virtual) cuyo hardware fingerprint queda registrado contra
+     una licencia válida emitida por el Titular.
+
+1.3  "Licencia de Servidor" significa una licencia con N puestos
+     emitida para una organización, donde cada Equipo Autorizado
+     consume un puesto del total contratado.
+
+1.4  "Código de Licencia" significa el archivo `.lic` firmado
+     digitalmente por el Titular que activa el Software en uno o
+     varios Equipos Autorizados.
+
+--------------------------------------------------------------------
+2. CONCESIÓN DE LICENCIA
+--------------------------------------------------------------------
+
+Sujeto al pago íntegro de las cantidades correspondientes y al
+cumplimiento estricto de este Acuerdo, el Titular concede al
+Licenciatario una licencia LIMITADA, NO EXCLUSIVA, NO TRANSFERIBLE,
+NO SUBLICENCIABLE Y REVOCABLE para:
+
+(a)  Instalar y ejecutar el Software únicamente en el o los Equipos
+     Autorizados que correspondan al Código de Licencia recibido,
+     dentro del plazo de validez de dicho código y limitado al
+     número de puestos contratados.
+
+(b)  Utilizar el Software únicamente para los fines normales y
+     legítimos del negocio del Licenciatario, conforme a la
+     documentación oficial.
+
+CUALQUIER USO NO EXPRESAMENTE PERMITIDO EN ESTA SECCIÓN ESTÁ
+PROHIBIDO.
+
+--------------------------------------------------------------------
+3. RESTRICCIONES (LO QUE NO PUEDES HACER)
+--------------------------------------------------------------------
+
+El Licenciatario NO podrá, ni permitirá a terceros, directa o
+indirectamente:
+
+3.1  COPIAR el Software, total o parcialmente, salvo una única
+     copia de seguridad para uso interno del Licenciatario.
+
+3.2  REDISTRIBUIR, vender, revender, alquilar, prestar, ceder,
+     sublicenciar, donar, publicar, alojar como servicio (SaaS),
+     ofrecer en una unidad compartida pública, o transferir a
+     cualquier tercero el Software ni ninguna parte del mismo.
+
+3.3  MODIFICAR, traducir, adaptar, fusionar, combinar con otro
+     software, crear obras derivadas o trabajos basados en el
+     Software, en su totalidad o en parte.
+
+3.4  REVERTIR INGENIERÍA (reverse engineering), descompilar,
+     desensamblar, desempaquetar, desofuscar, extraer recursos,
+     analizar el flujo de control, ni intentar de cualquier otra
+     forma derivar el código fuente, los algoritmos o las claves
+     criptográficas embebidas en el Software, salvo en la medida
+     estricta en que dicha actividad esté permitida por la
+     legislación imperativa aplicable y solo después de notificar
+     al Titular por escrito.
+
+3.5  ELIMINAR, OCULTAR O ALTERAR cualquier aviso de copyright,
+     marca, número de versión, identificador de licencia, leyenda
+     legal o cualquier otro signo distintivo del Software.
+
+3.6  EVADIR, ELIMINAR, ALTERAR O DESACTIVAR cualquier mecanismo de
+     activación, validación, licenciamiento, control de
+     puestos, comprobación de actualizaciones, telemetría
+     legítima, expiración o protección anti-copia incluido en el
+     Software.
+
+3.7  COMPARTIR, PUBLICAR, FILTRAR O DIVULGAR un Código de Licencia,
+     un archivo `.lic`, un fingerprint, claves privadas u otros
+     datos sensibles emitidos al Licenciatario.
+
+3.8  USAR el Software en más Equipos Autorizados de los
+     contratados; reactivar la licencia en equipos distintos sin
+     liberar previamente el puesto correspondiente desde la
+     herramienta administrativa del propio Software.
+
+3.9  USAR el Software para procesar contenido cuyo procesamiento
+     sea ilegal en la jurisdicción del Licenciatario.
+
+3.10 UTILIZAR el Software para construir, evaluar comparativamente
+     ("benchmark") o entrenar un producto o servicio competidor.
+
+3.11 DISTRIBUIR la herramienta generadora de licencias
+     (`PDFOffice-Licenser.exe`), su clave privada, sus claves
+     históricas o cualquier material destinado exclusivamente al
+     Titular. Esta herramienta no se considera entregada al
+     Licenciatario salvo acuerdo expreso por escrito.
+
+--------------------------------------------------------------------
+4. PROPIEDAD INTELECTUAL
+--------------------------------------------------------------------
+
+4.1  El Software es propiedad exclusiva del Titular y está
+     protegido por la legislación española sobre propiedad
+     intelectual (Real Decreto Legislativo 1/1996), por la
+     normativa de la Unión Europea sobre derechos de autor y
+     programas de ordenador, y por los tratados internacionales
+     aplicables (Convenio de Berna, Tratado OMPI sobre Derecho de
+     Autor, Acuerdo ADPIC).
+
+4.2  Este Acuerdo no transfiere al Licenciatario ningún derecho de
+     propiedad intelectual sobre el Software ni sobre marcas,
+     logotipos, nombres comerciales, claves criptográficas,
+     algoritmos o cualquier otro activo del Titular. El
+     Licenciatario adquiere ÚNICAMENTE el derecho LIMITADO Y
+     REVOCABLE de USAR el Software en los términos de la sección 2.
+
+4.3  Toda mejora, modificación, sugerencia o feedback que el
+     Licenciatario aporte sobre el Software podrá ser incorporada
+     libremente por el Titular sin obligación de pago, sin que el
+     Licenciatario adquiera derecho alguno sobre la versión
+     resultante.
+
+--------------------------------------------------------------------
+5. ACTUALIZACIONES
+--------------------------------------------------------------------
+
+5.1  El Titular podrá publicar actualizaciones del Software a su
+     entera discreción. Las actualizaciones quedan sujetas a este
+     mismo Acuerdo o, si el Titular lo establece, a un acuerdo
+     posterior que sustituya a este.
+
+5.2  El Software puede comunicarse con servidores del Titular para
+     comprobar la disponibilidad de actualizaciones y para
+     verificar la integridad del paquete descargado. El
+     Licenciatario acepta esta comunicación.
+
+--------------------------------------------------------------------
+6. DURACIÓN Y TERMINACIÓN
+--------------------------------------------------------------------
+
+6.1  Este Acuerdo entra en vigor en el momento en que el
+     Licenciatario instala, activa o utiliza por primera vez el
+     Software, y permanece vigente hasta su terminación.
+
+6.2  La licencia se extingue automáticamente, sin necesidad de
+     notificación, en cualquiera de los siguientes supuestos:
+
+     (a)  Vencimiento del plazo de validez del Código de Licencia.
+     (b)  Incumplimiento por parte del Licenciatario de cualquier
+          término de este Acuerdo, en particular las restricciones
+          de la sección 3.
+     (c)  Impago de las cantidades que correspondan.
+
+6.3  Tras la terminación, el Licenciatario deberá CESAR
+     INMEDIATAMENTE todo uso del Software, DESINSTALARLO de todos
+     los Equipos Autorizados y DESTRUIR TODAS LAS COPIAS en su
+     poder. Las obligaciones de las secciones 3, 4, 7, 8, 9 y 10
+     sobrevivirán a la terminación.
+
+--------------------------------------------------------------------
+7. AUSENCIA DE GARANTÍA
+--------------------------------------------------------------------
+
+EL SOFTWARE SE PROPORCIONA "TAL CUAL" Y "SEGÚN DISPONIBILIDAD",
+SIN GARANTÍA DE NINGÚN TIPO, NI EXPRESA NI IMPLÍCITA. EN LA
+MÁXIMA MEDIDA PERMITIDA POR LA LEGISLACIÓN APLICABLE, EL TITULAR
+RECHAZA TODA GARANTÍA, INCLUIDAS PERO NO LIMITADAS A LAS
+GARANTÍAS IMPLÍCITAS DE COMERCIABILIDAD, IDONEIDAD PARA UN
+PROPÓSITO PARTICULAR, EXACTITUD, AUSENCIA DE ERRORES, AUSENCIA DE
+INTERRUPCIONES Y NO INFRACCIÓN.
+
+EL LICENCIATARIO ASUME EL RIESGO TOTAL DERIVADO DEL USO DEL
+SOFTWARE Y ES RESPONSABLE DE MANTENER COPIAS DE SEGURIDAD DE SUS
+PROPIOS DATOS Y DOCUMENTOS ANTES DE PROCESARLOS CON EL SOFTWARE.
+
+Lo anterior no afecta a los derechos imperativos que correspondan
+al Licenciatario en su condición de consumidor, en su caso, según
+la legislación aplicable.
+
+--------------------------------------------------------------------
+8. LIMITACIÓN DE RESPONSABILIDAD
+--------------------------------------------------------------------
+
+EN LA MÁXIMA MEDIDA PERMITIDA POR LA LEY, EL TITULAR NO SERÁ
+RESPONSABLE FRENTE AL LICENCIATARIO NI FRENTE A NINGÚN TERCERO
+POR DAÑOS INDIRECTOS, INCIDENTALES, ESPECIALES, CONSECUENTES,
+EJEMPLARES O PUNITIVOS, NI POR LUCRO CESANTE, PÉRDIDA DE DATOS,
+PÉRDIDA DE NEGOCIO, INTERRUPCIÓN DE LA ACTIVIDAD O DAÑO
+REPUTACIONAL, AUNQUE EL TITULAR HAYA SIDO ADVERTIDO DE LA
+POSIBILIDAD DE TALES DAÑOS.
+
+LA RESPONSABILIDAD AGREGADA TOTAL DEL TITULAR DERIVADA DE O EN
+RELACIÓN CON ESTE ACUERDO O EL SOFTWARE NO EXCEDERÁ EN NINGÚN
+CASO LA CANTIDAD EFECTIVAMENTE PAGADA POR EL LICENCIATARIO AL
+TITULAR EN CONCEPTO DE LICENCIA EN LOS DOCE (12) MESES
+ANTERIORES AL HECHO QUE ORIGINE LA RECLAMACIÓN.
+
+Las limitaciones anteriores no afectan a las responsabilidades
+que no puedan excluirse o limitarse conforme a la legislación
+imperativa aplicable (en particular, dolo o culpa grave del
+Titular).
+
+--------------------------------------------------------------------
+9. AUDITORÍA Y CUMPLIMIENTO
+--------------------------------------------------------------------
+
+9.1  El Titular se reserva el derecho a verificar, mediante medios
+     técnicos no intrusivos integrados en el Software, el número de
+     Equipos Autorizados activos y la validez de los Códigos de
+     Licencia.
+
+9.2  En caso de uso fuera de los términos de este Acuerdo, el
+     Titular podrá:
+     (a) Suspender o revocar inmediatamente la licencia.
+     (b) Reclamar al Licenciatario los daños y perjuicios
+         causados, incluyendo los costes legales.
+     (c) Ejercitar las acciones civiles y penales que
+         correspondan.
+
+--------------------------------------------------------------------
+10. LEGISLACIÓN APLICABLE Y JURISDICCIÓN
+--------------------------------------------------------------------
+
+10.1 Este Acuerdo se rige por la legislación española, con
+     exclusión de sus normas sobre conflicto de leyes.
+
+10.2 Para cualquier controversia derivada de la interpretación o
+     ejecución de este Acuerdo, las partes se someten, con renuncia
+     expresa a cualquier otro fuero que pudiera corresponderles, a
+     la jurisdicción exclusiva de los Juzgados y Tribunales de
+     Mallorca (Illes Balears, España), salvo cuando una norma
+     imperativa aplicable a consumidores establezca lo contrario.
+
+--------------------------------------------------------------------
+11. MISCELÁNEA
+--------------------------------------------------------------------
+
+11.1 ACUERDO COMPLETO. Este documento constituye el acuerdo
+     íntegro entre las partes en cuanto a su objeto y reemplaza
+     cualquier acuerdo verbal o escrito previo.
+
+11.2 NULIDAD PARCIAL. La nulidad o inexigibilidad de cualquier
+     cláusula no afectará a la validez del resto del Acuerdo, que
+     continuará en vigor.
+
+11.3 NO RENUNCIA. La falta de ejercicio por parte del Titular de
+     cualquier derecho derivado de este Acuerdo no se considerará
+     renuncia a dicho derecho.
+
+11.4 NOTIFICACIONES. Cualquier notificación al Titular se enviará
+     a:
+         Next Code Agency
+         pdf-office@nextcodeagency.com
+
+11.5 CESIÓN. El Licenciatario no podrá ceder este Acuerdo, total
+     ni parcialmente, sin el consentimiento previo y por escrito
+     del Titular. El Titular podrá ceder libremente este Acuerdo,
+     incluida cualquier reorganización societaria.
+
+11.6 IDIOMA. La versión en español de este Acuerdo es la única
+     legalmente vinculante. Cualquier traducción se proporciona
+     únicamente por conveniencia.
+
+====================================================================
+
+Última actualización: 2026-05-09
+Next Code Agency · pdf-office@nextcodeagency.com
+
+Si tienes dudas sobre los términos de este Acuerdo o necesitas
+una licencia para un caso de uso específico (p.ej. OEM, integración
+en otro producto, despliegue masivo, gobierno o sector regulado),
+escríbenos antes de instalar.
